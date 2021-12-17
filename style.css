@@ -29,6 +29,14 @@ footer {
 }
 button {
     margin-top: 10px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
 }
 
 #result {
